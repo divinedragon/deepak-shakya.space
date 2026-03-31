@@ -1,0 +1,32 @@
+---
+type: "page"
+title: "/bookmarks"
+date: "2026-01-01"
+description: "Links for future reference and look-back"
+tags: []
+series: []
+images: []
+audio: []
+videos: []
+weight: 4
+---
+
+:hero-image: hero-image-section-bookmarks.jpg
+:indie-web-bookmarks: https://indieweb.org/bookmarks
+
+
+
+image::{hero-image}[The Developer Journal - Reads Section]
+
+This is my personal bookmark. These are all tools, websites, that I have collected over a period of time.
+
+This section follows the concept of {indie-web-bookmarks}[/bookmark]. I found them useful, and hopefully, you too find them interesting.
+
+[source, md]
+----
+Image generated with Google Gemini using the following prompt.
+
+I have a section on my person website called bookmarks. This follows the same concept as https://indieweb.org/bookmarks. Create an image as an abstract concept which resembles the same concept. Use a modern and futuristic theme. There should not be any text in the image.
+
+A futuristic digital illustration of an open wireframe book glowing with neon blue and gold light. Floating crystal-like bookmarks with cords hover above the pages. The background features abstract network lines, glowing nodes, faint translucent books, and floating computer code snippets in a dark, ethereal cyber environment.
+----

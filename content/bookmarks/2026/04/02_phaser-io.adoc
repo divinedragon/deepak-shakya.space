@@ -14,7 +14,7 @@ videos: []
 
 
 
-:website: https://phaser.io?utm_source=thedevjournal.space
+:website: https://phaser.io?utm_source=deepak-shakya.space
 :github: https://github.com/phaserjs/phaser
 :hero-image: ../images/02_phaser-io.jpg
 :youtube: https://www.youtube.com/watch?v=jHTRu4iNTcA

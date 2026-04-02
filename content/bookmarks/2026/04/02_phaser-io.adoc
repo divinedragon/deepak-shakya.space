@@ -1,0 +1,34 @@
+---
+type: "page"
+date: "2026-04-02"
+slug: "phaser-io"
+title: "phaser.io - Javascript Game Framework"
+description: "Fully featured HTML5 framework for cross-platform web games"
+tags: ["javascript", "games", "framework"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/02_phaser-io.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://phaser.io?utm_source=thedevjournal.space
+:github: https://github.com/phaserjs/phaser
+:hero-image: ../images/02_phaser-io.jpg
+:youtube: https://www.youtube.com/watch?v=jHTRu4iNTcA
+
+
+
+
+
+{website}[phaser.io] - Fully featured HTML5 framework for cross-platform web games.
+
+image::{hero-image}[Phase Demo Screenshot]
+
+Phaser is an HTML5 game framework and set of tools and services designed specifically for creating games for web browsers. It is built using, and relying on, web technologies. And the games it creates are meant to be played in desktop or mobile browsers, or apps capable of running web games, such as Discord, SnapChat, Facebook, WeChat, Playable Ads, Telegram, Twitch and more.
+
+== Links
+* Repository - {github}[@phaserjs/phaser]
+* Demo - {youtube}[YouTube]

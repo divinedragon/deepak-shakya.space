@@ -14,7 +14,7 @@ videos: []
 
 
 
-:website: https://musicany.com/?utm_source=thedevjournal.space
+:website: https://musicany.com/?utm_source=deepak-shakya.space
 :hero-image: ../images/05_music-any.jpg
 
 

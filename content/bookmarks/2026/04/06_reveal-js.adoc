@@ -14,17 +14,17 @@ videos: []
 
 
 
-:repository: https://github.com/hakimel/reveal.js?utm_source=thedevjournal.space
-:website: https://revealjs.com/?utm_source=thedevjournal.space
-:nested-slides: https://revealjs.com/vertical-slides/?utm_source=thedevjournal.space
-:markdown: https://revealjs.com/markdown/?utm_source=thedevjournal.space
-:auto-animate: https://revealjs.com/auto-animate/?utm_source=thedevjournal.space
-:pdf-export: https://revealjs.com/pdf-export/?utm_source=thedevjournal.space
-:speaker-notes: https://revealjs.com/speaker-view/?utm_source=thedevjournal.space
-:latex: https://revealjs.com/math/?utm_source=thedevjournal.space
-:code: https://revealjs.com/code/?utm_source=thedevjournal.space
-:api: https://revealjs.com/api/?utm_source=thedevjournal.space
-:website-slides: https://slides.com/?utm_source=thedevjournal.space
+:repository: https://github.com/hakimel/reveal.js?utm_source=deepak-shakya.space
+:website: https://revealjs.com/?utm_source=deepak-shakya.space
+:nested-slides: https://revealjs.com/vertical-slides/?utm_source=deepak-shakya.space
+:markdown: https://revealjs.com/markdown/?utm_source=deepak-shakya.space
+:auto-animate: https://revealjs.com/auto-animate/?utm_source=deepak-shakya.space
+:pdf-export: https://revealjs.com/pdf-export/?utm_source=deepak-shakya.space
+:speaker-notes: https://revealjs.com/speaker-view/?utm_source=deepak-shakya.space
+:latex: https://revealjs.com/math/?utm_source=deepak-shakya.space
+:code: https://revealjs.com/code/?utm_source=deepak-shakya.space
+:api: https://revealjs.com/api/?utm_source=deepak-shakya.space
+:website-slides: https://slides.com/?utm_source=deepak-shakya.space
 :hero-image: ../images/06_reveal-js.png
 
 

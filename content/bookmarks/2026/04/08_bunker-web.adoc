@@ -1,0 +1,32 @@
+---
+type: "page"
+date: "2026-04-08"
+slug: "bunkerweb"
+title: "BunkerWeb is a next-generation and open-source Web Application Firewall (WAF)"
+description: "BunkerWeb contains primary security features as part of the core but can be easily extended with additional ones thanks to a plugin system"
+tags: ["security", "open-source"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/08_bunker-web.jpg"
+audio: []
+videos: []
+---
+
+
+
+:repository: https://github.com/bunkerity/bunkerweb
+:hero-image: ../images/08_bunker-web.svg
+:website: https://www.bunkerweb.io/?utm_source=thedevjournal.space
+
+
+
+
+
+{website}[BunkerWeb] - BunkerWeb is a next-generation and open-source Web Application Firewall (WAF)
+
+image::{hero-image}[BunkerWeb Architecture]
+
+Being a full-featured web server (based on NGINX under the hood), it will protect your web services to make them "secure by default". BunkerWeb integrates seamlessly into your existing environments (Linux, Docker, Swarm, Kubernetes, …) and is fully configurable (don't panic, there is an awesome web UI if you don't like the CLI) to meet your own use-cases . In other words, cybersecurity is no more a hassle.
+
+== Links
+* Repository - {repository}[bunkerity/bunkerweb]

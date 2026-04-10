@@ -14,23 +14,23 @@ videos: []
 
 
 
-:website: https://mlu-explain.github.io/?utm_source=thedevjournal.space
+:website: https://mlu-explain.github.io/?utm_source=deepak-shakya.space
 :hero-image: ../images/10_mlu-explain.jpg
-:aws-mlu: https://aws.amazon.com/machine-learning/mlu/?utm_source=thedevjournal.space
-:neural-networks: https://mlu-explain.github.io/neural-networks/?utm_source=thedevjournal.space
-:equality-of-odds: https://mlu-explain.github.io/equality-of-odds/?utm_source=thedevjournal.space
-:logistic-regression: https://mlu-explain.github.io/logistic-regression/?utm_source=thedevjournal.space
-:linear-regression: https://mlu-explain.github.io/linear-regression/?utm_source=thedevjournal.space
-:reinforcement-learning: https://mlu-explain.github.io/reinforcement-learning/?utm_source=thedevjournal.space
-:roc-auc: https://mlu-explain.github.io/roc-auc/?utm_source=thedevjournal.space
-:cross-validation: https://mlu-explain.github.io/cross-validation/?utm_source=thedevjournal.space
-:train-test-validation: https://mlu-explain.github.io/train-test-validation/?utm_source=thedevjournal.space
-:precision-recall: https://mlu-explain.github.io/precision-recall/?utm_source=thedevjournal.space
-:random-forest: https://mlu-explain.github.io/random-forest/?utm_source=thedevjournal.space
-:decision-trees: https://mlu-explain.github.io/decision-tree/?utm_source=thedevjournal.space
-:bias-variance: https://mlu-explain.github.io/bias-variance/?utm_source=thedevjournal.space
-:double-descent-1: https://mlu-explain.github.io/double-descent/?utm_source=thedevjournal.space
-:double-descent-2: https://mlu-explain.github.io/double-descent2/?utm_source=thedevjournal.space
+:aws-mlu: https://aws.amazon.com/machine-learning/mlu/?utm_source=deepak-shakya.space
+:neural-networks: https://mlu-explain.github.io/neural-networks/?utm_source=deepak-shakya.space
+:equality-of-odds: https://mlu-explain.github.io/equality-of-odds/?utm_source=deepak-shakya.space
+:logistic-regression: https://mlu-explain.github.io/logistic-regression/?utm_source=deepak-shakya.space
+:linear-regression: https://mlu-explain.github.io/linear-regression/?utm_source=deepak-shakya.space
+:reinforcement-learning: https://mlu-explain.github.io/reinforcement-learning/?utm_source=deepak-shakya.space
+:roc-auc: https://mlu-explain.github.io/roc-auc/?utm_source=deepak-shakya.space
+:cross-validation: https://mlu-explain.github.io/cross-validation/?utm_source=deepak-shakya.space
+:train-test-validation: https://mlu-explain.github.io/train-test-validation/?utm_source=deepak-shakya.space
+:precision-recall: https://mlu-explain.github.io/precision-recall/?utm_source=deepak-shakya.space
+:random-forest: https://mlu-explain.github.io/random-forest/?utm_source=deepak-shakya.space
+:decision-trees: https://mlu-explain.github.io/decision-tree/?utm_source=deepak-shakya.space
+:bias-variance: https://mlu-explain.github.io/bias-variance/?utm_source=deepak-shakya.space
+:double-descent-1: https://mlu-explain.github.io/double-descent/?utm_source=deepak-shakya.space
+:double-descent-2: https://mlu-explain.github.io/double-descent2/?utm_source=deepak-shakya.space
 
 
 

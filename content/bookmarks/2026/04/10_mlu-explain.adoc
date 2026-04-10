@@ -1,0 +1,62 @@
+---
+type: "page"
+date: "2026-04-10"
+slug: "mlu-explain"
+title: "MLU Explain - Visual explanations of core machine learning concepts"
+description: " MLU-Explain exists to teach important machine learning concepts through visual essays in a fun, informative, and accessible manner."
+tags: ["ai", "learning"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/10_mlu-explain.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://mlu-explain.github.io/?utm_source=thedevjournal.space
+:hero-image: ../images/10_mlu-explain.jpg
+:aws-mlu: https://aws.amazon.com/machine-learning/mlu/?utm_source=thedevjournal.space
+:neural-networks: https://mlu-explain.github.io/neural-networks/?utm_source=thedevjournal.space
+:equality-of-odds: https://mlu-explain.github.io/equality-of-odds/?utm_source=thedevjournal.space
+:logistic-regression: https://mlu-explain.github.io/logistic-regression/?utm_source=thedevjournal.space
+:linear-regression: https://mlu-explain.github.io/linear-regression/?utm_source=thedevjournal.space
+:reinforcement-learning: https://mlu-explain.github.io/reinforcement-learning/?utm_source=thedevjournal.space
+:roc-auc: https://mlu-explain.github.io/roc-auc/?utm_source=thedevjournal.space
+:cross-validation: https://mlu-explain.github.io/cross-validation/?utm_source=thedevjournal.space
+:train-test-validation: https://mlu-explain.github.io/train-test-validation/?utm_source=thedevjournal.space
+:precision-recall: https://mlu-explain.github.io/precision-recall/?utm_source=thedevjournal.space
+:random-forest: https://mlu-explain.github.io/random-forest/?utm_source=thedevjournal.space
+:decision-trees: https://mlu-explain.github.io/decision-tree/?utm_source=thedevjournal.space
+:bias-variance: https://mlu-explain.github.io/bias-variance/?utm_source=thedevjournal.space
+:double-descent-1: https://mlu-explain.github.io/double-descent/?utm_source=thedevjournal.space
+:double-descent-2: https://mlu-explain.github.io/double-descent2/?utm_source=thedevjournal.space
+
+
+
+
+
+{website}[MLU Explain] - Visual explanations of core machine learning concepts.
+
+image::{hero-image}[MLU Explain depiction of a stick figure representing as a teacher and explaining equations on a board]
+
+{aws-mlu}[Machine Learning University (MLU)] is an education initiative from Amazon designed to teach machine learning theory and practical application.
+
+As part of that goal, MLU-Explain exists to teach important machine learning concepts through visual essays in a fun, informative, and accessible manner.
+
+Currently published articles (as of 10-Apr-2026):
+
+* {neural-networks}[Neural Networks]
+* {equality-of-odds}[Equality of Odds]
+* {logistic-regression}[Logistic Regression]
+* {linear-regression}[Linear Regression]
+* {reinforcement-learning}[Reinforcement Learning]
+* {roc-auc}[ROC & AUC]
+* {cross-validation}[Cross-Validation]
+* {train-test-validation}[Train, Test, and Validation Sets]
+* {precision-recall}[Precision & Recall]
+* {random-forest}[Random Forest]
+* {decision-trees}[Decision Trees]
+* {bias-variance}[The Bias Variance Tradeoff]
+* {double-descent-1}[Double Descent: A Visual Introduction]
+* {double-descent-2}[Double Descent: A Mathematical Explanation]

@@ -14,7 +14,7 @@ videos: []
 
 
 
-:website: https://cssgridgarden.com/?utm_source=thedevjournal.space
+:website: https://cssgridgarden.com/?utm_source=deepak-shakya.space
 :hero-image: ../images/12_css-grid-garden.jpg
 
 

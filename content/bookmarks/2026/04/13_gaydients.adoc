@@ -14,7 +14,7 @@ videos: []
 
 
 
-:website: https://cesque.com/gaydient/?utm_source=thedevjournal.space
+:website: https://cesque.com/gaydient/?utm_source=deepak-shakya.space
 :hero-image: ../images/13_gaydient.jpg
 
 

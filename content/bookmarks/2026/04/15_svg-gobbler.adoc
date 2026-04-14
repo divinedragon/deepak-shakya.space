@@ -14,7 +14,7 @@ videos: []
 
 
 
-:website: https://svggobbler.com/?utm_source=thedevjournal.space
+:website: https://svggobbler.com/?utm_source=deepak-shakya.space
 :repository: https://github.com/rossmoody/svg-gobbler
 :hero-image: ../images/15_svg-gobbler.jpg
 

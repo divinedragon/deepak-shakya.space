@@ -1,0 +1,33 @@
+---
+type: "page"
+date: "2026-04-17"
+slug: "gh-dash"
+title: "gh-dash - A rich terminal UI for GitHub that doesn't break your flow."
+description: "A GitHub (gh) CLI extension to display a dashboard with pull requests and issues by filters you care about"
+tags: ["command-line", "git"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/17_gh-dash.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://www.gh-dash.dev/?utm_source=thedevjournal.space
+:hero-image: ../images/17_gh-dash-demo.gif
+:repository: https://github.com/dlvhdr/gh-dash
+:gh-cli: https://cli.github.com/?utm_source=thedevjournal.space
+
+
+
+
+
+{website}[dlvhdr/gh-dash] - A beautiful CLI dashboard for GitHub.
+
+image::{hero-image}[gh-dash demo]
+
+A {gh-cli}[GitHub (gh) CLI] extension to display a dashboard with pull requests and issues by filters you care about. It provides a rich terminal user interface for managing pull requests and issues across multiple repositories without leaving the command line.
+
+== Links
+* Repository - {repository}[dlvhdr/gh-dash]

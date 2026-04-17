@@ -14,10 +14,10 @@ videos: []
 
 
 
-:website: https://www.gh-dash.dev/?utm_source=thedevjournal.space
+:website: https://www.gh-dash.dev/?utm_source=deepak-shakya.space
 :hero-image: ../images/17_gh-dash-demo.gif
 :repository: https://github.com/dlvhdr/gh-dash
-:gh-cli: https://cli.github.com/?utm_source=thedevjournal.space
+:gh-cli: https://cli.github.com/?utm_source=deepak-shakya.space
 
 
 

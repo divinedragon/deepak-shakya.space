@@ -1,0 +1,43 @@
+---
+type: "page"
+date: "2026-04-18"
+slug: "config-file-validator"
+title: "config-file-validator - Cross-platform CLI tool to validate configuration files"
+description: "Catch errors in syntax and schema before deployment. Written in Go."
+tags: [ "text" ]
+series: []
+images:
+  - "/bookmarks/2026/04/images/18_config-file-validator.png"
+audio: []
+videos: []
+---
+
+
+
+:repository: https://github.com/Boeing/config-file-validator
+:hero-image: ../images/18_config-file-validator-demo.gif
+:github-action: https://github.com/kehoecj/validate-configs-action
+
+
+
+
+
+{repository}[Boeing/config-file-validator] - Single cross-platform CLI tool to validate different configuration file types.
+
+image::{hero-image}[Config File Validation demo]
+
+== Supported formats:
+* Apple PList XML
+* CSV
+* EDITORCONFIG
+* ENV
+* HCL
+* HOCON
+* INI
+* JSON
+* Properties
+* TOML
+* XML
+* YAML
+
+If you want to deploy this validation as part of Github Actions, use {github-action}[kehoecj/validate-configs-action]

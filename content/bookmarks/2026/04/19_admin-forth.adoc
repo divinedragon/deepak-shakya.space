@@ -14,7 +14,7 @@ videos: []
 
 
 
-:website: https://adminforth.dev/?utm_source=thedevjournal.space
+:website: https://adminforth.dev/?utm_source=deepak-shakya.space
 :custom-dashboard: ../images/19_admin-forth-custom-dashboard.gif
 :image-creation: ../images/19_admin-forth-image-generation.gif
 :repository: https://github.com/devforth/adminforth

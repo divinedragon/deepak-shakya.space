@@ -14,7 +14,7 @@ videos: []
 
 
 
-:website: https://www.tiingo.com/?utm_source=thedevjournal.space
+:website: https://www.tiingo.com/?utm_source=deepak-shakya.space
 :hero-image: ../images/21_tiingo.jpg
 :documentation: https://www.tiingo.com/documentation/general/overview
 

@@ -1,0 +1,41 @@
+---
+type: "page"
+date: "2026-04-22"
+slug: "pandas-ai"
+title: "PandasAI - Ask questions for data in natural language"
+description: "It helps non-technical users to interact with their data in a more natural way"
+tags: [ "ai", "python" ]
+series: []
+images:
+  - "/bookmarks/2026/04/images/22_pandas-ai.png"
+audio: []
+videos: []
+---
+
+
+
+:website: https://github.com/Sinaptik-AI/pandas-ai
+:hero-image: ../images/22_pandas-ai-demo.gif
+:demo: ../images/22_pandas-ai-histogram.png
+
+
+
+
+
+{website}[Pandas-AI] - PandasAI is a Python platform that makes it easy to ask questions to your data in natural language.
+
+image::{hero-image}[Pandas-AI Demo]
+
+It helps non-technical users to interact with their data in a more natural way, and it helps technical users to save time and effort when working with data.
+
+[cols="1,1"]
+|===
+a|
+[source, python]
+----
+df.chat(
+  "Plot the histogram of countries showing for each one the gdp. Use different colors for each bar",
+)
+----
+a| image::{demo}[Pandas AI demo for the code in the adjacent cell]
+|===

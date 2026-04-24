@@ -16,7 +16,7 @@ videos: []
 
 :github-user: https://github.com/ikatyang
 :repository: https://github.com/ikatyang/emoji-cheat-sheet
-:copy-char: https://copychar.cc/?utm_source=thedevjournal.space
+:copy-char: https://copychar.cc/?utm_source=deepak-shakya.space
 :hero-image: ../images/24_emoji-cheatsheet.jpg
 
 

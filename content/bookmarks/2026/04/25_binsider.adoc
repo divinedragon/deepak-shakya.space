@@ -14,7 +14,7 @@ videos: []
 
 
 
-:website: https://binsider.dev/?utm_source=thedevjournal.space
+:website: https://binsider.dev/?utm_source=deepak-shakya.space
 :repository: https://github.com/orhun/binsider
 :hero-image: ../images/25_binsider-demo.gif
 :demo-1: ../images/25_binsider-demo-general-analysis.gif

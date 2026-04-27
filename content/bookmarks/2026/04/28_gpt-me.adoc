@@ -14,10 +14,10 @@ videos: []
 
 
 
-:website: https://gptme.org/?utm_source=thedevjournal.space
+:website: https://gptme.org/?utm_source=deepak-shakya.space
 :hero-image: ../images/28_gpt-me.jpg
 :repository: https://github.com/gptme/gptme
-:gpt-me-chat: https://chat.gptme.org/?utm_source=thedevjournal.space
+:gpt-me-chat: https://chat.gptme.org/?utm_source=deepak-shakya.space
 :demo-1: ../images/28_gpt-me-demo1.gif
 :demo-2: ../images/28_gpt-me-demo2.gif
 :demo-3: ../images/28_gpt-me-demo3.gif
@@ -28,7 +28,7 @@ videos: []
 :gptme-rag: https://github.com/gptme/gptme-rag
 :gptme-vim: https://github.com/gptme/gptme.vim
 :gptme-tauri: https://github.com/gptme/gptme-tauri
-:gptme-ai: https://gptme.ai/?utm_source=thedevjournal.space
+:gptme-ai: https://gptme.ai/?utm_source=deepak-shakya.space
 
 
 

@@ -1,0 +1,30 @@
+---
+type: "page"
+date: "2026-04-27"
+slug: "screen-pipe"
+title: "ScreenPipe - Local AI Screen and Mic Recording"
+description: "ScreenPipe records your screen and mic 24/7, entirely on your own machine."
+tags: ["ai"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/27_screen-pipe.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://screenpi.pe/?utm_source=thedevjournal.space
+:rewind-ai: https://rewind.ai?utm_source=thedevjournal.space
+:repository: https://github.com/mediar-ai/screenpipe
+
+
+
+
+
+{website}[ScreenPipe] turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours. Open source alternative for {rewind-ai}[Rewind.AI].
+
+video::ucs1q3Wdvgs[youtube, start=0, options=controls, width=100%, height=550]
+
+== Links
+* Repository - {repository}[mediar-ai/screenpipe]

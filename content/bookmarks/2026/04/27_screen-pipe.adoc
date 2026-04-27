@@ -14,8 +14,8 @@ videos: []
 
 
 
-:website: https://screenpi.pe/?utm_source=thedevjournal.space
-:rewind-ai: https://rewind.ai?utm_source=thedevjournal.space
+:website: https://screenpi.pe/?utm_source=deepak-shakya.space
+:rewind-ai: https://rewind.ai?utm_source=deepak-shakya.space
 :repository: https://github.com/mediar-ai/screenpipe
 
 

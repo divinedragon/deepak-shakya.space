@@ -16,7 +16,7 @@ videos: []
 
 :repository: https://github.com/zlwaterfield/scramble
 :hero-image: ../images/29_scramble-demo.png
-:chrome-extension: https://chromewebstore.google.com/detail/scramble/mkaljgnigabhmjfookbokejhfghmkffo?utm_source=thedevjournal.space
+:chrome-extension: https://chromewebstore.google.com/detail/scramble/mkaljgnigabhmjfookbokejhfghmkffo?utm_source=deepak-shakya.space
 
 
 

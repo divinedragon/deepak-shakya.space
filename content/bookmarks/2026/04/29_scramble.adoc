@@ -1,0 +1,33 @@
+---
+type: "page"
+date: "2026-04-29"
+slug: "scramble"
+title: "Scramble - Open-Source Grammarly Alternative"
+description: "Scramble is an open-source Chrome extension that leverages AI to enhance your writing directly in your browser."
+tags: [ "ai" ]
+series: []
+images:
+  - "/bookmarks/2026/04/images/29_scramble.jpg"
+audio: []
+videos: []
+---
+
+
+
+:repository: https://github.com/zlwaterfield/scramble
+:hero-image: ../images/29_scramble-demo.png
+:chrome-extension: https://chromewebstore.google.com/detail/scramble/mkaljgnigabhmjfookbokejhfghmkffo?utm_source=thedevjournal.space
+
+
+
+
+
+{chrome-extension}[Scramble] is an open-source Chrome extension that leverages AI to enhance your writing directly in your browser. It's designed to be a more customizable alternative to Grammarly by using specific prompts and allowing you to configure the LLM provider, model, and endpoint.
+
+image::{hero-image}[Scramble Screenshot Demo]
+
+== Usage
+* Highlight text on any webpage
+* Right-click to open the context menu
+* Select "Scramble" and choose a text enhancement option
+* Wait for the AI to process and enhance your text

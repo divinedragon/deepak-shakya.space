@@ -1,0 +1,34 @@
+:root {
+  --LOGO-IMAGE-width: 100%;
+  --MENU-HEADER-BG-color: var(--MENU-SECTIONS-BG-color);
+  --MENU-S-width: 14.375rem;
+  --MENU-M-width: 18.75rem;
+  --MENU-L-width: 18.75rem;
+  --MAIN-MAX-width: 1000rem;
+  --MENU-SEARCH-BG-color: var(--BOX-BG-color);
+}
+
+#R-logo .logo-image::after {
+  content: "Deepak Shakya";
+  color: var(--MAIN-TEXT-color);
+  font-size: 2rem;
+  font-weight: bold;
+  padding-top: 1rem;
+  display: block;
+}
+
+#R-logo img {
+  clip-path: circle(50%);
+}
+
+search::before {
+  content: "Technologist | AI & Machine Learning Expert | Delivering Performance and Innovation";
+  font-size: 1rem;
+  color: var(--MAIN-TEXT-color);
+  display: block;
+  padding-bottom: 1rem;
+}
+
+#R-search-by {
+  background-color: var(--BOX-BG-color);
+}

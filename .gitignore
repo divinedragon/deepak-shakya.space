@@ -1,2 +1,6 @@
 # Editors
 .vscode/
+
+# Hugo specific
+public/
+.hugo_build.lock

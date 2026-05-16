@@ -1,0 +1,7 @@
+baseURL: "https://deepak-shakya.space/"
+locale: "en-us"
+title: "Deepak Shakya's Space"
+
+module:
+  imports:
+    - path: "github.com/McShelby/hugo-theme-relearn"

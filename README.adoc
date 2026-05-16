@@ -1,2 +1,25 @@
-# deepak-shakya.space
-deepak-shakya.space
+= deepak-shakya.space
+
+:relearn-theme-site: https://mcshelby.github.io/hugo-theme-relearn/introduction/index.html
+:relearn-github: https://github.com/McShelby/hugo-theme-relearn
+:relearn-releases: https://github.com/McShelby/hugo-theme-relearn/releases
+:mcshelby: https://github.com/McShelby
+
+== Theme
+
+{relearn-theme-site}[Relearn] theme by {McShelby}[McShelby] - {relearn-github}[Github Repository]
+
+=== Updating the theme via hugo module
+
+==== Step 1 - Get the latest release version
+
+Get the {relearn-releases}[latest release] number or the one that you want to upgrade to. As of May-2026, the latest released version is - `9.0.3`.
+
+==== Step 2 - Get the latest release via hugo mod
+
+Run the following command (replace `9.0.3` with your version of choice) to get the theme code.
+
+[source, bash]
+----
+hugo mod get -u github.com/McShelby/hugo-theme-relearn@9.0.3
+----

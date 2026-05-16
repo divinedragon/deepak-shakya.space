@@ -1,0 +1,31 @@
+:root {
+  --LOGO-IMAGE-width: 100%;
+  --MENU-HEADER-BG-color: var(--MENU-SECTIONS-BG-color);
+  --MENU-S-width: 14.375rem;
+  --MENU-M-width: 18.75rem;
+  --MENU-L-width: 18.75rem;
+  --MAIN-WIDTH-MAX: 1000rem;
+  --MENU-SEARCH-BG-color: var(--BOX-BG-color);
+  --INTERNAL-MENU-SECTIONS-ACTIVE-BG-color: var(--MENU-SECTIONS-BG-color);
+  --MAIN-font: "Work Sans";
+}
+
+#R-logo img {
+  clip-path: circle(50%);
+}
+
+search {
+  padding-bottom: 0px;
+}
+
+#R-search-by {
+  background-color: var(--BOX-BG-color);
+}
+
+#R-homelinks {
+  display: none;
+}
+
+#deepak-shakyas-space {
+  display: none;
+}

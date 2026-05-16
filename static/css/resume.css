@@ -1,0 +1,60 @@
+.resume {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+.resume hr {
+  border: 1px solid var(--MAIN-TEXT-color);
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  width: 100%;
+  background-color: var(--BOX-BG-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  padding: 0px 20px;
+  gap: 10px;
+  border-radius: 14px;
+  margin-bottom: 30px;
+}
+
+.work-experience {
+  width: 100%;
+}
+
+.work-experience-title,
+.skills-title {
+  margin: 0;
+}
+
+.work-experience-location {
+  display: flex;
+  justify-content: space-between;
+}
+.work-experience-column-left {
+  flex-basis: 55%;
+}
+.work-experience-column-right {
+  flex-basis: 35%;
+  text-align: right;
+}
+
+.skills {
+  padding-bottom: 30px;
+}
+.skills-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 5px;
+  margin-left: 0;
+  padding: 0;
+}
+
+.skills-tag {
+  background-color: var(--MAIN-BG-color);
+  display: inline-block;
+  padding: 0px 15px;
+}

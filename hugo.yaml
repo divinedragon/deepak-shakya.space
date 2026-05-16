@@ -7,6 +7,20 @@ module:
     - path: "github.com/McShelby/hugo-theme-relearn"
 
 params:
+  linkTitle: ""
   themeVariant: "relearn-dark"
+  logo:
+    src: "/deepak-shakya.jpg"
+  images:
+    - "/og-deepak-shakya.jpg"
+  alwaysopen: true
+  collapsibleMenu: false
+  disableLandingPageButton: true
+  search:
+    disable: false
+    index:
+      disable: false
+    page:
+      disable: true
   custom_css:
     - "css/custom.css"

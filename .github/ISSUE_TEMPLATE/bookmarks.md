@@ -1,5 +1,5 @@
 ---
-name: "Bookmarks - YYYY-QX (MMM-YYYY)"
+name: "Bookmarks"
 about: "Bookmarks for a specific month"
 title: "Bookmarks - YYYY-QX (MMM-YYYY)"
 labels: ""

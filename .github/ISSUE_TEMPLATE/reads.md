@@ -1,9 +1,9 @@
 ---
-name: "Reads - YYYY-QX (MMM-YYYY)"
+name: "Reads"
 about: "Reads for a specific month"
-title: "Bookmarks - YYYY-QX (MMM-YYYY)"
+title: "Reads - YYYY-QX (MMM-YYYY)"
 labels: ""
-assignees: divinedragon
+assignees: "divinedragon"
 ---
 
 # Description

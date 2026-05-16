@@ -24,3 +24,14 @@ params:
       disable: true
   custom_css:
     - "css/custom.css"
+
+security:
+  exec:
+    allow:
+      - "^(dart-)?sass(-embedded)?$"
+      - "^go$"
+      - "^git$"
+      - "^node$"
+      - "^postcss$"
+      - "^tailwindcss$"
+      - "^asciidoctor$"

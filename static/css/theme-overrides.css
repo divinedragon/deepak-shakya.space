@@ -4,8 +4,9 @@
   --MENU-S-width: 14.375rem;
   --MENU-M-width: 18.75rem;
   --MENU-L-width: 18.75rem;
-  --MAIN-MAX-width: 1000rem;
+  --MAIN-WIDTH-MAX: 1000rem;
   --MENU-SEARCH-BG-color: var(--BOX-BG-color);
+  --MAIN-font: "Work Sans";
 }
 
 #R-logo .logo-image::after {
@@ -31,4 +32,8 @@ search::before {
 
 #R-search-by {
   background-color: var(--BOX-BG-color);
+}
+
+#deepak-shakyas-space {
+  display: none;
 }

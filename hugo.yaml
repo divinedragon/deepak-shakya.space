@@ -5,3 +5,8 @@ title: "Deepak Shakya's Space"
 module:
   imports:
     - path: "github.com/McShelby/hugo-theme-relearn"
+
+params:
+  themeVariant: "relearn-dark"
+  custom_css:
+    - "css/custom.css"

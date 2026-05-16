@@ -6,32 +6,24 @@
   --MENU-L-width: 18.75rem;
   --MAIN-WIDTH-MAX: 1000rem;
   --MENU-SEARCH-BG-color: var(--BOX-BG-color);
+  --INTERNAL-MENU-SECTIONS-ACTIVE-BG-color: var(--MENU-SECTIONS-BG-color);
   --MAIN-font: "Work Sans";
-}
-
-#R-logo .logo-image::after {
-  content: "Deepak Shakya";
-  color: var(--MAIN-TEXT-color);
-  font-size: 2rem;
-  font-weight: bold;
-  padding-top: 1rem;
-  display: block;
 }
 
 #R-logo img {
   clip-path: circle(50%);
 }
 
-search::before {
-  content: "Technologist | AI & Machine Learning Expert | Delivering Performance and Innovation";
-  font-size: 1rem;
-  color: var(--MAIN-TEXT-color);
-  display: block;
-  padding-bottom: 1rem;
+search {
+  padding-bottom: 0px;
 }
 
 #R-search-by {
   background-color: var(--BOX-BG-color);
+}
+
+#R-homelinks {
+  display: none;
 }
 
 #deepak-shakyas-space {

@@ -3,11 +3,14 @@
 :relearn-theme-site: https://mcshelby.github.io/hugo-theme-relearn/introduction/index.html
 :relearn-github: https://github.com/McShelby/hugo-theme-relearn
 :relearn-releases: https://github.com/McShelby/hugo-theme-relearn/releases
+:relearn-configuration: https://mcshelby.github.io/hugo-theme-relearn/configuration/reference/index.html
 :mcshelby: https://github.com/McShelby
 
 == Theme
 
 {relearn-theme-site}[Relearn] theme by {McShelby}[McShelby] - {relearn-github}[Github Repository]
+
+Full configuration options for the theme is here - {relearn-configuration}[Relearn Configuration Reference]
 
 === Updating the theme via hugo module
 

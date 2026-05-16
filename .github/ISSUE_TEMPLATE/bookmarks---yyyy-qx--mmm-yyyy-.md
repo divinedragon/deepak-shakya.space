@@ -1,0 +1,20 @@
+---
+name: Bookmarks - YYYY-QX (MMM-YYYY)
+about: Bookmarks for a specific month
+title: ''
+labels: ''
+assignees: divinedragon
+
+---
+
+# Description
+All bookmarks for YYYY-QX (MMM-YYYY)
+
+## Bookmarks
+- [ ] Website 1
+- [ ] Website 1
+- [ ] Website 1
+- [ ] Website 1
+- [ ] Website 1
+- [ ] Website 1
+- [ ] Website 1

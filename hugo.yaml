@@ -13,6 +13,8 @@ params:
     src: "/deepak-shakya.jpg"
   images:
     - "/og-deepak-shakya.jpg"
+  meta:
+    favicon: true
   alwaysopen: true
   collapsibleMenu: false
   disableLandingPageButton: true
@@ -24,6 +26,43 @@ params:
       disable: true
   custom_css:
     - "css/custom.css"
+
+markup:
+  defaultMarkdownHandler: "goldmark"
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+  highlight:
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: false
+    noClasses: true
+    style: "fruity"
+    tabWidth: 4
+
+image:
+  errorlevel: "error"
+link:
+  errorlevel: "error"
+
+outputs:
+  home:
+    - "html"
+    - "rss"
+    - "print"
+  page:
+    - "html"
+    - "print"
+  section:
+    - "html"
+    - "rss"
+    - "print"
 
 security:
   exec:

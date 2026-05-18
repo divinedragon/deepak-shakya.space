@@ -4,3 +4,7 @@
 # Hugo specific
 public/
 .hugo_build.lock
+
+# Scripts
+scripts/
+

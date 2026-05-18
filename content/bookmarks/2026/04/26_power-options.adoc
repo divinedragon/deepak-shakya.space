@@ -1,0 +1,50 @@
+---
+type: "page"
+date: "2026-04-26"
+slug: "power-options"
+title: "Power Options - Most feature-complete Linux GUI power management solution"
+description: "All-In-One blazingly fast Linux GUI Application for simple and advanced power management on any device"
+tags: [ "linux" ]
+series: []
+images:
+  - "/bookmarks/2026/04/images/26_power-options.png"
+audio: []
+videos: []
+---
+
+
+
+:website: https://thealexdev23.github.io/power-options/
+:hero-image: ../images/26_power-options-demo.gif
+:repository: https://github.com/TheAlexDev23/power-options
+
+
+
+
+
+{website}[Power Options] was made based on a recollection of all the tips and recommendations from the biggest linux wikis and guides as well as other power saving applications.
+
+image::{hero-image}[Power Options demo]
+
+== Features
+
+* More profile types than alternatives
+* Can smartly generate profiles by analyzing the user's system.
+* System Sleep Options (suspend, screen turn off)
+* CPU Options
+* Individual CPU Core Options. Most power saving tools lack this option and was one of the main motivations for this project.
+* Screen Options
+* Options for disabling radio components (e.g Bluetooth, WiFi, NFC)
+* Network Options. Allows WAY greater control than alternative applications, but does require network driver reload. Limited to Intel network cards that use iwlwifi.
+* ASPM Options
+* PCI Options
+* USB Options
+* SATA Options
+* Kernel Options
+* Firmware settings
+* Audio Options
+* GPU Options
+* Intel Running Average Power Limit (RAPL) settings
+
+== Links
+* Repository - {repository}[TheAlexDev23/power-options]

@@ -1,0 +1,38 @@
+---
+type: "page"
+date: "2026-04-19"
+slug: "adminforth"
+title: "adminforth - Open-Source Admin Framework with a native Agent"
+description: "Create Admin Panels faster on Node.js and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need with Vue3"
+tags: ["ui", "dashboard"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/19_admin-forth.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://adminforth.dev/?utm_source=deepak-shakya.space
+:custom-dashboard: ../images/19_admin-forth-custom-dashboard.gif
+:image-creation: ../images/19_admin-forth-image-generation.gif
+:repository: https://github.com/devforth/adminforth
+
+
+
+
+
+{website}[adminforth.dev] - Open-Source Admin Framework with a native Agent
+
+Create Admin Panels faster on Node.js and Vue.js with AdminForth Framework built using Vue.js and Tailwind. Setup main CRUD pages within minutes, extend as you need with Vue3.
+
+[cols="^1,5"]
+|===
+| Custom Dashboard a| image::{custom-dashboard}[AdminForth - Custom Dashboard example]
+| Image Generation a| image::{image-creation}[AdminForth - Image Creation example]
+|===
+
+
+== Link
+* Repository - {repository}[devforth/adminforth]

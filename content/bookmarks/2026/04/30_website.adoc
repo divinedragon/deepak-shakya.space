@@ -1,0 +1,43 @@
+---
+type: "page"
+date: "2026-04-30"
+slug: "ripgrep-all"
+title: "ripgrep-all - ripgrep to search in pdfs, documents, zip, etc."
+description: "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc."
+tags: [ "command-line" ]
+series: []
+images:
+  - "/bookmarks/2026/04/images/30_ripgrep-all.png"
+audio: []
+videos: []
+---
+
+
+
+:repository: https://github.com/phiresky/ripgrep-all
+:ripgrep: https://github.com/BurntSushi/ripgrep
+:hero-image: ../images/30_ripgrep-all.png
+
+
+
+
+
+{repository}[rga a.k.a ripgrep-all] is a line-oriented search tool that allows you to look for a regex in a multitude of file types. rga wraps the awesome {ripgrep}[ripgrep] and enables it to search in pdf, docx, sqlite, jpg, movie subtitles (mkv, mp4), etc.
+
+Here is an example directory with different file types:
+
+[source, bash]
+----
+demo/
+├── greeting.mkv
+├── hello.odt
+├── hello.sqlite3
+└── somearchive.zip
+├── dir
+│ ├── greeting.docx
+│ └── inner.tar.gz
+│ └── greeting.pdf
+└── greeting.epub
+----
+
+image::{hero-image}[rga output]

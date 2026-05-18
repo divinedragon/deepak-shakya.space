@@ -1,0 +1,28 @@
+---
+type: "page"
+date: "2026-04-03"
+slug: "is-my-blue"
+title: "ismy.blue - Can identify blue from green?"
+description: "Test your color categorization by identifying if you can distinguish between green and blue"
+tags: ["game"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/03_is-my-blue.png"
+audio: []
+videos: []
+---
+
+
+
+:website: https://ismy.blue/
+:hero-image: ../images/03_is-my-blue.png
+
+
+
+
+
+{website}[ismy.blue] - Can identify blue from green?
+
+image::{hero-image}[My results for Hue boundry between blue and green. I am a true netrual]
+
+Test your color perception with this interactive test. It's fun and happy selecting.

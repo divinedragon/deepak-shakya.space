@@ -1,0 +1,77 @@
+---
+type: "page"
+date: "2026-04-28"
+slug: "gpt-me"
+title: "gpt-me - Local Terminal agent"
+description: "A personal AI agent that runs anywhere a terminal runs"
+tags: [ "ai" ]
+series: []
+images:
+  - "/bookmarks/2026/04/images/28_gpt-me.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://gptme.org/?utm_source=deepak-shakya.space
+:hero-image: ../images/28_gpt-me.jpg
+:repository: https://github.com/gptme/gptme
+:gpt-me-chat: https://chat.gptme.org/?utm_source=deepak-shakya.space
+:demo-1: ../images/28_gpt-me-demo1.gif
+:demo-2: ../images/28_gpt-me-demo2.gif
+:demo-3: ../images/28_gpt-me-demo3.gif
+:demo-4: ../images/28_gpt-me-demo4.gif
+:gptme-webui: https://github.com/gptme/gptme/tree/master/webui
+:gptme-contrib: https://github.com/gptme/gptme-contrib
+:gptme-agent: https://github.com/gptme/gptme-agent-template
+:gptme-rag: https://github.com/gptme/gptme-rag
+:gptme-vim: https://github.com/gptme/gptme.vim
+:gptme-tauri: https://github.com/gptme/gptme-tauri
+:gptme-ai: https://gptme.ai/?utm_source=deepak-shakya.space
+
+
+
+
+
+{website}[gpt-me] - Interact with an LLM assistant directly in your terminal in a Chat-style interface. With tools so the assistant can run shell commands, execute code, read/write files, and more, enabling them to assist in all kinds of development and terminal-based work.
+
+image::{hero-image}[gpt-me screenshot of the Chat interface]
+
+A local alternative to ChatGPT's "Code Interpreter" that is not constrained by lack of software, internet access, timeouts, or privacy concerns (if local models are used).
+
+Below are some examples:
+
+[cols="^1,^2"]
+|===
+| Fibonnaci (old) a| image::{demo-1}[Fibonnaci demo using GPT-me]
+| Snake Game a| image::{demo-2}[Snake Game demo using GPT-me]
+| Mandelbrot Curses a| image::{demo-3}[Mandelbrot Curses demo using GPT-me]
+| Ask question from URL a| image::{demo-4}[Ask question from URL demo using GPT-me]
+|===
+
+== Use Cases
+* 🖥 Development: Write and run code faster with AI assistance.
+* 🎯 Shell Expert: Get the right command using natural language (no more memorizing flags!).
+* 📊 Data Analysis: Process and analyze data directly in your terminal.
+* 🎓 Interactive Learning: Experiment with new technologies or codebases hands-on.
+* 🤖 Agents & Tools: Build long-running autonomous agents for real work.
+* 🔬 Research: Automate literature review, data collection, and analysis pipelines.
+
+== Ecosystem
+gptme is more than a CLI — it's a platform with a growing ecosystem:
+
+[cols="^1,3"]
+|===
+| **Project** | **Description**
+|{gptme-webui}[gptme-webui]           a| Modern React web interface, available at {gpt-me-chat}[chat.gptme.org]
+|{gptme-contrib}[gptme-contrib]       a| Community plugins, packages, scripts, and lessons
+|{gptme-agent}[gptme-agent-template]  a| Template for building persistent autonomous agents
+|{gptme-rag}[gptme-rag]               a| RAG integration for semantic search over local files
+|{gptme-vim}[gptme.vim]               a| Vim plugin for in-editor gptme integration
+|{gptme-tauri}[gptme-tauri]           a| Desktop app (WIP)
+|{gptme-ai}[gptme.ai]                 a| Managed cloud service (WIP)
+|===
+
+== Links
+* Repository - {repository}[gptme/gptme]

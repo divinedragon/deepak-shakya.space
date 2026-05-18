@@ -1,0 +1,31 @@
+---
+type: "page"
+date: "2026-04-04"
+slug: "spacer"
+title: "spacer - Insert spaces when command output stops"
+description: "A simple CLI tool to insert spacers when command output stops"
+tags: ["command-line"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/04_spacer.gif"
+audio: []
+videos: []
+---
+
+
+
+:repository: https://github.com/samwho/spacer?utm_source=deepak-shakya.space
+:hero-image: ../images/04_spacer.gif
+
+
+
+
+
+{repository}[spacer] is a simple CLI tool to insert spacers when command output stops.
+
+image::{hero-image}[Spacer Demo]
+
+If you're the type of person that habitually presses enter a few times in your log tail to know where the last request ended and the new one begins, this tool is for you!
+
+== Links
+* Repository - {repository}[samwho/spacer]

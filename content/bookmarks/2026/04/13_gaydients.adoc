@@ -1,0 +1,28 @@
+---
+type: "page"
+date: "2026-04-13"
+slug: "gaydient"
+title: "Gaydient - CSS Gradients for Pride Flag"
+description: "A (non-exhaustive) list of pride flag gradients, which have been color-tweaked to prevent ugly CSS gradient interpolation."
+tags: ["css", "pride"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/13_gaydient.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://cesque.com/gaydient/?utm_source=deepak-shakya.space
+:hero-image: ../images/13_gaydient.jpg
+
+
+
+
+
+{website}[Gaydient] - CSS Gradients for Pride Flag
+
+this is a (non-exhaustive) list of pride flag gradients, which have been color-tweaked to prevent ugly CSS gradient interpolation.
+
+image::{hero-image}[Gaydient Home Page Screenshot showing color gradients for Agender, Aromatic, Asexual, Bisexual gender types]

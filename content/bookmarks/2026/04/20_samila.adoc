@@ -1,0 +1,40 @@
+---
+type: "page"
+date: "2026-04-20"
+slug: "samila"
+title: "Samila - Generative Art written in Python"
+description: "Samila lets you create images based on many thousand points. Because of the random numbers, every image looks different."
+tags: ["images"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/20_samila-demo-1.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://www.samila.site/?utm_source=deepak-shakya.space
+:repository: https://github.com/sepandhaghighi/samila
+:demo-1: ../images/20_samila-demo-1.jpg
+:demo-2: ../images/20_samila-demo-2.jpg
+:demo-3: ../images/20_samila-demo-3.jpg
+
+
+
+
+
+{website}[Generative Art Generator - Samila] - Samila is a generative art generator written in Python.
+
+Samila lets you create images based on many thousand points. The position of every single point is calculated by a formula, which has random parameters. Because of the random numbers, every image looks different.
+
+
+[cols="1,4"]
+|===
+| Demo 1 a| image::{demo-1}[Samila Demo Graph 1]
+| Demo 2 a| image::{demo-2}[Samila Demo Graph 2]
+| Demo 3 a| image::{demo-3}[Samila Demo Graph 3]
+|===
+
+== Links
+* Repository - {repository}[sepandhaghighi/samila]

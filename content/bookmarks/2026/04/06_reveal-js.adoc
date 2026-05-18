@@ -1,0 +1,53 @@
+---
+type: "page"
+date: "2026-04-06"
+slug: "reveal.js"
+title: "Reveal.js - Create Stunning Presentations on the Web"
+description: "reveal.js is an open source HTML presentation framework. It's a tool that enables anyone with a web browser to create fully-featured and beautiful presentations for free."
+tags: ["javascript", "presentation"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/06_reveal-js.png"
+audio: []
+videos: []
+---
+
+
+
+:repository: https://github.com/hakimel/reveal.js?utm_source=deepak-shakya.space
+:website: https://revealjs.com/?utm_source=deepak-shakya.space
+:nested-slides: https://revealjs.com/vertical-slides/?utm_source=deepak-shakya.space
+:markdown: https://revealjs.com/markdown/?utm_source=deepak-shakya.space
+:auto-animate: https://revealjs.com/auto-animate/?utm_source=deepak-shakya.space
+:pdf-export: https://revealjs.com/pdf-export/?utm_source=deepak-shakya.space
+:speaker-notes: https://revealjs.com/speaker-view/?utm_source=deepak-shakya.space
+:latex: https://revealjs.com/math/?utm_source=deepak-shakya.space
+:code: https://revealjs.com/code/?utm_source=deepak-shakya.space
+:api: https://revealjs.com/api/?utm_source=deepak-shakya.space
+:website-slides: https://slides.com/?utm_source=deepak-shakya.space
+:hero-image: ../images/06_reveal-js.png
+
+
+
+
+
+{repository}[reveal.js] is an open source HTML presentation framework. It enables anyone with a web browser to create beautiful presentations for free. Check out the live demo at {website}[revealjs.com].
+
+image::{hero-image}[Reveal JS Banner]
+
+The framework comes with a powerful feature set:
+
+* {nested-slides}[nested slides]
+* {markdown}[Markdown support]
+* {auto-animate}[Auto-Animate]
+* {pdf-export}[PDF export]
+* {speaker-notes}[speaker notes]
+* {latex}[LaTeX typesetting]
+* {code}[syntax highlighted code]
+* {api}[extensive API]
+
+Also, you can use the UI here - {website-slides}[https://slides.com]
+
+== Links
+* Repository - {repository}[hakimel/reveal.js]
+* Website - {website}[revealjs.com]

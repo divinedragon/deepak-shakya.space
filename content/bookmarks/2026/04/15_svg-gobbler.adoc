@@ -1,0 +1,30 @@
+---
+type: "page"
+date: "2026-04-15"
+slug: "svg-globbler"
+title: "SVG Gobbler - SVG management made easy for designers & developers"
+description: "A browser extension for finding, optimizing, organizing, editing, and exporting SVGs like never before."
+tags: ["images", "browser"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/15_svg-gobbler.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://svggobbler.com/?utm_source=deepak-shakya.space
+:repository: https://github.com/rossmoody/svg-gobbler
+:hero-image: ../images/15_svg-gobbler.jpg
+
+
+
+
+
+{website}[SVG Gobbler] - SVG management made easy for designers & developers It is a browser extension for finding, optimizing, organizing, editing, and exporting SVGs like never before.
+
+image::{hero-image}[SVG Gobbler Screenshot]
+
+== Links
+* Repository - {repository}[rossmoody/svg-gobbler]

@@ -1,0 +1,35 @@
+---
+type: "page"
+date: "2026-04-14"
+slug: "freeze"
+title: "Freeze - Generate images of code and terminal output"
+description: "Freeze generates PNGs, SVGs, and WebPs of code and terminal output alike."
+tags: [ "command-line", "images" ]
+series: []
+images:
+  - "/bookmarks/2026/04/images/14_freeze.png"
+audio: []
+videos: []
+---
+
+
+
+:repository: https://github.com/charmbracelet/freeze
+:hero-image: ../images/14_freeze.png
+
+
+
+
+{repository}[Freeze] - Generate images of code and terminal output. Freeze generates PNGs, SVGs, and WebPs of code and terminal output alike.
+
+[source, bash]
+----
+freeze artichoke.hs -o artichoke.png
+----
+
+Below is a sample screenshot:
+
+image::{hero-image}[Freeze Code Output]
+
+== Links
+* Repository - {repository}[charmbracelet/freeze]

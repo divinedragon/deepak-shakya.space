@@ -1,0 +1,44 @@
+---
+type: "page"
+date: "2026-04-23"
+slug: "parse-hub"
+title: "ParseHub is a free and powerful web scraping tool"
+description: ""
+tags: ["python", "scraping"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/23_parse-hub.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://www.parsehub.com/?utm_source=deepak-shakya.space
+:hero-image: ../images/23_parse-hub.jpg
+
+
+
+
+
+{website}[ParseHub] is a free and powerful web scraping tool. A free web scraper that is easy to use. With our advanced web scraper, extracting data is as easy as clicking on the data you need.
+
+image::{hero-image}[ParseHub Screenshot]
+
+== Features
+
+* **Easy to Use**
+** Browser-based, graphic interface
+** Click to extract text, images, attributes and more
+
+* **Powerful**
+** Scrape data from any dynamic website
+** Extract content that loads with AJAX & JavaScript
+
+* **Cloud Based**
+** Scrape and store data on our servers
+** Connect to our REST API or download a CSV/Excel file
+
+* **Extremely Scalable**
+** Collect millions of data points in minutes
+** Save time copying & pasting. Never write code again

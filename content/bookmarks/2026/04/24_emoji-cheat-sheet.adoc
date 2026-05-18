@@ -1,0 +1,34 @@
+---
+type: "page"
+date: "2026-04-24"
+slug: "ikatyang-markdown-emoji-cheatsheet"
+title: "ikatyang's - Markdown Emoji Cheatsheet"
+description: "A markdown version emoji cheat sheet"
+tags: ["markdown", "cheatsheet"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/24_emoji-cheatsheet.jpg"
+audio: []
+videos: []
+---
+
+
+
+:github-user: https://github.com/ikatyang
+:repository: https://github.com/ikatyang/emoji-cheat-sheet
+:copy-char: https://copychar.cc/?utm_source=deepak-shakya.space
+:hero-image: ../images/24_emoji-cheatsheet.jpg
+
+
+
+
+
+{repository}[emoji-cheat-sheet] by {github-user}[ikatyan] is possibly the best Markdown Emoji Cheat-Sheet if you constantly scan the list of emoji's to find the one to use.
+
+Big thank you 💚💚💚
+
+image::{hero-image}[Github Social Image for ikatyang's emoji cheatsheet repository]
+
+Why this is better is due to a basic organization of emojis. This helps to reduce the scan of emojis
+
+I would still continue to use {copy-char}[copychar.cc] for other symbols and characters, but emoji; I might just switch entirely to {repository}[ikatyang's cheat-sheet].

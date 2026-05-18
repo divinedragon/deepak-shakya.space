@@ -1,0 +1,28 @@
+---
+type: "page"
+date: "2026-04-01"
+slug: "answer-the-public"
+title: "AnswerThePublic - Discover what people are asking about"
+description: "It is a great tool to identify and research what people are searching for online"
+tags: ["ideas", "research"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/01_answer-the-public.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://answerthepublic.com/?utm_source=deepak-shakya.space
+:hero-image: ../images/01_answer-the-public.jpg
+
+
+
+
+
+{website}[AnswerThePublic] - Discover what people are asking about.
+
+It is a great tool to identify and research what people are searching for online. While, the search is disrupted by AI, this is still relevant to see related concepts for a question. For example, below is the search report for all latest AI models as people search on the Web.
+
+image::{hero-image}[AnswerThePublic search report for AI Models]

@@ -1,0 +1,37 @@
+---
+type: "page"
+date: "2026-04-21"
+slug: "tiingo"
+title: "Tiingo - A Reliable, Enterprise-Grade Financial Markets API"
+description: "Tiingo's APIs power hedge funds, tech companies, and individuals."
+tags: ["finance", "api"]
+series: []
+images:
+  - "/bookmarks/2026/04/images/21_tiingo.jpg"
+audio: []
+videos: []
+---
+
+
+
+:website: https://www.tiingo.com/?utm_source=deepak-shakya.space
+:hero-image: ../images/21_tiingo.jpg
+:documentation: https://www.tiingo.com/documentation/general/overview
+
+
+
+
+
+{website}[Tiingo] - A Reliable, Enterprise-Grade Financial Markets API. Tiingo's APIs power hedge funds, tech companies, and individuals.
+
+image::{hero-image}[Tiingo Homepage Screenshot]
+
+Tiingo's APIs are built to be performant, consistent, and also support extensive filters to speed up your development time.
+
+The endpoints are broken up into two different types:
+
+* REST Endpoints which provide a RESTful interface to querying data, especially historical data for end-of-day data feeds.
+* Websocket which provide a websocket interface and are used to stream real-time data. If you are looking for access to a raw firehose of data, the websocket endpoint is how you get it.
+
+== Links
+* {documentation}[Documentation]

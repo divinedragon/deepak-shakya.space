@@ -1,3 +1,13 @@
 {{- partialCached "auto-logo.html" site.Home }}
-<h3>Deepak Shakya</h3>
-<p style="color: var(--MAIN-TEXT-color)">Technologist | AI & Machine Learning Expert | Delivering Performance and Innovation</p>
+<div></div>
+<h3 id="site-title">{{ .Site.Params.header.title }}</h3>
+<p id="site-subtitle">{{ .Site.Params.header.subtitle }}</p>
+<div id="socials">
+    <ul>
+        <a href="{{ .Site.Params.socials.email }}" target="_blank"><i class="fas fa-at socials-email"></i></a>
+        <a href="{{ .Site.Params.socials.github }}" target="_blank"><i class="fab fa-github socials-github"></i></a>
+        <a href="{{ .Site.Params.socials.mastodon }}" target="_blank"><i class="fab fa-mastodon"></i></a>
+        <a href="{{ .Site.Params.socials.stackoverflow }}" target="_blank"><i class="fab fa-stack-overflow"></i></a>
+        <a href="{{ .Site.Params.socials.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a>
+    </ul>
+</div>

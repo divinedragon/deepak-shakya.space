@@ -4,7 +4,7 @@ date: "2026-04-12"
 slug: "css-grid-garden"
 title: "CSS Grid Garden - Game for learning CSS grid"
 description: "Grid Garden is an interactive browser-based game designed to help developers and students master the fundamentals of the CSS Grid layout system"
-tags: ["game", "learning", "css"]
+tags: [ "games", "learning", "css" ]
 series: []
 images:
   - "/bookmarks/2026/04/images/12_css-grid-garden.jpg"
@@ -14,7 +14,7 @@ videos: []
 
 
 
-:website: https://cssgridgarden.com/?utm_source=deepak-shakya.space
+:website: https://cssgridgarden.com/
 :hero-image: ../images/12_css-grid-garden.jpg
 
 
@@ -28,3 +28,9 @@ image::{hero-image}[CSS Grid Garden Home Page screenshot which shows text code o
 Grid Garden is an interactive browser-based game designed to help developers and students master the fundamentals of the CSS Grid layout system. Players must write real CSS code to water carrot crops and poison weeds, effectively learning how to position elements and define grid structures through hands-on practice.
 
 Across 28 increasingly challenging levels, the game provides a visual, gamified environment that makes complex web design concepts like grid-columns, grid-rows, and repeat functions much easier to grasp.
+
+
+
+== Links
+
+* Website - {website}[cssgridgarden.com]

@@ -4,7 +4,7 @@ date: "2026-04-03"
 slug: "is-my-blue"
 title: "ismy.blue - Can identify blue from green?"
 description: "Test your color categorization by identifying if you can distinguish between green and blue"
-tags: ["game"]
+tags: [ "games" ]
 series: []
 images:
   - "/bookmarks/2026/04/images/03_is-my-blue.png"
@@ -23,6 +23,12 @@ videos: []
 
 {website}[ismy.blue] - Can identify blue from green?
 
-image::{hero-image}[My results for Hue boundry between blue and green. I am a true netrual]
+image::{hero-image}[My results for Hue boundary between blue and green. I am a true neutral]
 
 Test your color perception with this interactive test. It's fun and happy selecting.
+
+
+
+== Links
+
+* Website - {website}[ismy.blue]

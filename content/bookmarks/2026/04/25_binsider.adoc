@@ -4,7 +4,7 @@ date: "2026-04-25"
 slug: "binsider"
 title: "Binsider - Get inside of the ELF binaries."
 description: "Perform static, dynamic analysis, inspect strings, examine linked libraries, and perform hexdumps, all within a user-friendly terminal user interface!"
-tags: ["linux"]
+tags: [ "command-line", "tools" ]
 series: []
 images:
   - "/bookmarks/2026/04/images/25_binsider.jpg"
@@ -14,8 +14,8 @@ videos: []
 
 
 
-:website: https://binsider.dev/?utm_source=deepak-shakya.space
-:repository: https://github.com/orhun/binsider
+:website: https://binsider.dev/
+:github: https://github.com/orhun/binsider
 :hero-image: ../images/25_binsider-demo.gif
 :demo-1: ../images/25_binsider-demo-general-analysis.gif
 :demo-2: ../images/25_binsider-demo-static-analysis.gif
@@ -30,6 +30,8 @@ videos: []
 {website}[**Binsider**] can perform static and dynamic analysis, inspect strings, examine linked libraries, and perform hexdumps, all within a user-friendly terminal user interface!
 
 image::{hero-image}[Binsider Demo]
+
+
 
 == Features
 
@@ -53,5 +55,7 @@ a| image::{demo-5}[Binsider Hexdump Demo]
 
 |===
 
+
+
 == Links
-* Repository - {repository}[orhun/binsider]
+* Repository - {github}[@orhun/binsider]

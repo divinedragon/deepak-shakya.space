@@ -1,12 +1,106 @@
-= deepak-shakya.space
-
+:homepage: https://deepak-shakya.space
+:hero-image: https://raw.githubusercontent.com/divinedragon/deepak-shakya.space/refs/heads/main/static/deepak-shakya.space.jpg
+:hugo: https://gohugo.io/
+:ascii-doc: https://asciidoc.org/
 :relearn-theme-site: https://mcshelby.github.io/hugo-theme-relearn/introduction/index.html
 :relearn-github: https://github.com/McShelby/hugo-theme-relearn
 :relearn-releases: https://github.com/McShelby/hugo-theme-relearn/releases
 :relearn-configuration: https://mcshelby.github.io/hugo-theme-relearn/configuration/reference/index.html
 :mcshelby: https://github.com/McShelby
+:localhost: http://localhost:1313
+:simple-analytics: https://www.simpleanalytics.com/
+:gisqus: https://giscus.app/
+:github-discussions: https://docs.github.com/en/discussions/quickstart
+:license: https://github.com/divinedragon/deepak-shakya.space/blob/main/LICENSE
+:license-code: https://github.com/divinedragon/deepak-shakya.space/blob/main/LICENSE-CODE
 
-== Theme
+
+
+
+
+[.text-center]
+= {homepage}[🏡 deepak-shakya.space]
+
+image::{hero-image}[Screenshot of deepak-shakya.space]
+
+
+
+[.text-left]
+== 📖 Overview
+
+My personal website hosted - {homepage}[deepak-shakya.space]. This site has my writing, projects, bookmarks, readings, experiences, and much more. It is built with {hugo}[Hugo] using {relearn-theme-site}[Relearn theme] by {mcshelby}[@mcshelby].
+
+
+
+[.text-left]
+== 🖥 Running it Locally
+
+Run `hugo serve` and open {localhost}[http://localhost:1313]. Couldn't be as simple as that
+
+[source, bash]
+----
+-> m public -fr; ./site.sh run
+
+Watching for changes in /home/divinedragon/git/deepak-shakya.space/{archetypes,assets,content,layouts,static}
+Watching for config changes in /home/divinedragon/git/deepak-shakya.space/hugo.yaml
+Start building sites …
+hugo v0.161.1-ea8f66a7ce988664dcc84c052fc96757042e2e4a linux/amd64 BuildDate=2026-04-29T13:56:01Z VendorInfo=gohugoio
+
+
+                   | EN
+-------------------+------
+  Pages            | 173
+  Paginator pages  |  10
+  Non-page files   |   1
+  Static files     | 183
+  Processed images |   0
+  Aliases          |  73
+  Cleaned          |   0
+
+Built in 133 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+----
+
+
+
+[.text-left]
+== ⚡️ Powered by
+
+===  ● 🪅 Site generator powered by {hugo}[Hugo]
+
+===  ● 📑 Content powered by {ascii-doc}[AsciiDoc]
+
+===  ● 📊 Analytics powered by {simple-analytics}[SimpleAnalytics]
+
+===  ● 💬 Comments powered by {gisqus}[Gisqus] using {github-discussions}[Github Discussions]
+
+
+
+[.text-left]
+== 📑 Content Structures
+
+[source, bash]
+----
+-> tree -d content/
+content/
+│
+├── blog        # All blog articles go here
+│
+└── bookmarks   # Bookmarks that I have collected over the years
+│
+├── projects    # All projects/showcase related things go here
+│
+└── reads       # All articles that I read with my personal note on those go here
+----
+
+
+
+[.text-left]
+== 🎨 Theme
 
 {relearn-theme-site}[Relearn] theme by {McShelby}[McShelby] - {relearn-github}[Github Repository]
 
@@ -26,3 +120,12 @@ Run the following command (replace `9.0.3` with your version of choice) to get t
 ----
 hugo mod get -u github.com/McShelby/hugo-theme-relearn@9.0.3
 ----
+
+
+
+[.text-left]
+== 📜 License
+
+Site content is licensed under the {license}[CC-BY-4.0 license], which means that you can copy, redistribute, remix, transform, and build upon the content for any purpose as long as you give appropriate credit.
+
+All other code in this repository is licensed under the {license-code}[MIT license].

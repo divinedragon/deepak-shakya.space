@@ -1,5 +1,5 @@
 ---
-type: "page"
+type: "section"
 title: "/bookmarks"
 date: "2026-01-01"
 description: "Links for future reference and look-back"

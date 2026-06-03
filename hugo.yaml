@@ -10,7 +10,7 @@ params:
   linkTitle: ""
   themeVariant: "relearn-dark"
   logo:
-    src: "/deepak-shakya.jpg"
+    src: "/avatar.png"
   images:
     - "/og-deepak-shakya.jpg"
   meta:

@@ -10,7 +10,7 @@ params:
   linkTitle: ""
   themeVariant: "relearn-dark"
   logo:
-    src: "/deepak-shakya.jpg"
+    src: "/avatar.png"
   images:
     - "/og-deepak-shakya.jpg"
   meta:
@@ -24,9 +24,15 @@ params:
       disable: false
     page:
       disable: true
-  custom_css:
-    - "css/custom.css"
-
+  socials:
+    github: "https://github.com/divinedragon"
+    email: "mailto:justdpk+website@gmail.com"
+    mastodon: "https://mastodon.world/@divinedragon"
+    stackoverflow: "https://stackoverflow.com/users/979772/divinedragon"
+    linkedin: "https://www.linkedin.com/in/deepak-shakya/"
+  header:
+    title: "Deepak Shakya"
+    subtitle: "Technologist | AI & Machine Learning Expert | Delivering Performance and Innovation"
 markup:
   defaultMarkdownHandler: "goldmark"
   goldmark:

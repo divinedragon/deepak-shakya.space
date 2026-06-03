@@ -1,3 +1,8 @@
 <link href="/css/theme-overrides.css" rel="stylesheet" />
 <link href="/css/resume.css" rel="stylesheet" />
 <link href="/css/fonts.css" rel="stylesheet" />
+
+{{ if .Page.IsPage }}
+<meta property="giscus-title" content="{{ .Section }}/{{ .Page.Slug }}" />
+<meta name="giscus-title" content="{{ .Section }}/{{ .Page.Slug }}" />
+{{ end }}

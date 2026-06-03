@@ -1,5 +1,5 @@
 :root {
-  --LOGO-IMAGE-width: 100%;
+  --LOGO-IMAGE-width: 80%;
   --MENU-HEADER-BG-color: var(--MENU-SECTIONS-BG-color);
   --MENU-S-width: 14.375rem;
   --MENU-M-width: 18.75rem;
@@ -26,6 +26,29 @@ search {
   display: none;
 }
 
+#R-sidebar .R-sidebarmenu > ul {
+  margin-top: 0;
+}
+
 #deepak-shakyas-space {
   display: none;
+}
+
+#site-title {
+  font-size: 2rem;
+  line-height: 2.5rem;
+  padding: 0;
+  margin: -5px;
+}
+
+#site-subtitle {
+  font-size: 0.8rem;
+  color: var(--MAIN-TEXT-color);
+  padding: 0;
+  margin: 10px 7px;
+}
+
+#socials a {
+  color: var(--MENU-SECTIONS-LINK-color);
+  font-size: 1.5rem;
 }

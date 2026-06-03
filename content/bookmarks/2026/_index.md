@@ -1,5 +1,5 @@
 ---
-type: "page"
+type: "chapter"
 date: "2026-01-01"
 title: "2026"
 description: "Links for future reference and look-back | 2026"

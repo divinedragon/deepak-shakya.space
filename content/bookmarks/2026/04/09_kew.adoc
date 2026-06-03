@@ -4,7 +4,7 @@ date: "2026-04-09"
 slug: "kew"
 title: "kew is a terminal music player"
 description: "kew is a terminal music player"
-tags: []
+tags: [ "command-line", "audio/music" ]
 series: []
 images:
   - "/bookmarks/2026/04/images/09_kew.jpg"
@@ -14,18 +14,21 @@ videos: []
 
 
 
-:repository: https://codeberg.org/ravachol/kew
+:codeberg: https://codeberg.org/ravachol/kew
 :hero-image: ../images/09_kew.gif
 
 
 
 
 
-{repository}[kew] (/kjuː/) is a terminal music player.
+{codeberg}[kew] (/kjuː/) is a terminal music player.
 
 image::{hero-image}[Kew Music Player Demo]
 
+
+
 == Features
+
 * Search a music library with partial titles from the command-line.
 * Creates a playlist automatically based on matched song, album or artist.
 * Private, no data is collected by kew*.
@@ -44,5 +47,8 @@ image::{hero-image}[Kew Music Player Demo]
 
 *kew displays it's status in Discord by default, but this can be disabled both in Discord and in the kew config file kewrc.
 
+
+
 == Links
-* Repository - {repository}[ravachol/kew]
+
+* Repository - {codeberg}[ravachol/kew]

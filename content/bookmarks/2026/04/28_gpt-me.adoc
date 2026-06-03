@@ -14,10 +14,10 @@ videos: []
 
 
 
-:website: https://gptme.org/?utm_source=deepak-shakya.space
+:website: https://gptme.org/
 :hero-image: ../images/28_gpt-me.jpg
-:repository: https://github.com/gptme/gptme
-:gpt-me-chat: https://chat.gptme.org/?utm_source=deepak-shakya.space
+:github: https://github.com/gptme/gptme
+:gpt-me-chat: https://chat.gptme.org/
 :demo-1: ../images/28_gpt-me-demo1.gif
 :demo-2: ../images/28_gpt-me-demo2.gif
 :demo-3: ../images/28_gpt-me-demo3.gif
@@ -28,7 +28,7 @@ videos: []
 :gptme-rag: https://github.com/gptme/gptme-rag
 :gptme-vim: https://github.com/gptme/gptme.vim
 :gptme-tauri: https://github.com/gptme/gptme-tauri
-:gptme-ai: https://gptme.ai/?utm_source=deepak-shakya.space
+:gptme-ai: https://gptme.ai/
 
 
 
@@ -50,7 +50,10 @@ Below are some examples:
 | Ask question from URL a| image::{demo-4}[Ask question from URL demo using GPT-me]
 |===
 
+
+
 == Use Cases
+
 * 🖥 Development: Write and run code faster with AI assistance.
 * 🎯 Shell Expert: Get the right command using natural language (no more memorizing flags!).
 * 📊 Data Analysis: Process and analyze data directly in your terminal.
@@ -58,7 +61,10 @@ Below are some examples:
 * 🤖 Agents & Tools: Build long-running autonomous agents for real work.
 * 🔬 Research: Automate literature review, data collection, and analysis pipelines.
 
+
+
 == Ecosystem
+
 gptme is more than a CLI — it's a platform with a growing ecosystem:
 
 [cols="^1,3"]
@@ -73,5 +79,8 @@ gptme is more than a CLI — it's a platform with a growing ecosystem:
 |{gptme-ai}[gptme.ai]                 a| Managed cloud service (WIP)
 |===
 
+
+
 == Links
-* Repository - {repository}[gptme/gptme]
+
+* Repository - {github}[@gptme/gptme]

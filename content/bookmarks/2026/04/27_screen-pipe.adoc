@@ -4,7 +4,7 @@ date: "2026-04-27"
 slug: "screen-pipe"
 title: "ScreenPipe - Local AI Screen and Mic Recording"
 description: "ScreenPipe records your screen and mic 24/7, entirely on your own machine."
-tags: ["ai"]
+tags: [ "ai" ]
 series: []
 images:
   - "/bookmarks/2026/04/images/27_screen-pipe.jpg"
@@ -14,9 +14,9 @@ videos: []
 
 
 
-:website: https://screenpi.pe/?utm_source=deepak-shakya.space
-:rewind-ai: https://rewind.ai?utm_source=deepak-shakya.space
-:repository: https://github.com/mediar-ai/screenpipe
+:website: https://screenpi.pe/
+:rewind-ai: https://rewind.ai
+:github: https://github.com/mediar-ai/screenpipe
 
 
 
@@ -26,5 +26,8 @@ videos: []
 
 video::ucs1q3Wdvgs[youtube, start=0, options=controls, width=100%, height=550]
 
+
+
 == Links
-* Repository - {repository}[mediar-ai/screenpipe]
+
+* Repository - {github}[@mediar-ai/screenpipe]

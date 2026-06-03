@@ -14,7 +14,7 @@ videos: []
 
 
 
-:repository: https://github.com/Boeing/config-file-validator
+:github: https://github.com/Boeing/config-file-validator
 :hero-image: ../images/18_config-file-validator-demo.gif
 :github-action: https://github.com/kehoecj/validate-configs-action
 
@@ -22,7 +22,7 @@ videos: []
 
 
 
-{repository}[Boeing/config-file-validator] - Single cross-platform CLI tool to validate different configuration file types.
+{github}[@Boeing/config-file-validator] - Single cross-platform CLI tool to validate different configuration file types.
 
 image::{hero-image}[Config File Validation demo]
 
@@ -41,3 +41,9 @@ image::{hero-image}[Config File Validation demo]
 * YAML
 
 If you want to deploy this validation as part of Github Actions, use {github-action}[kehoecj/validate-configs-action]
+
+
+
+== Links
+
+* Repository - {github}[@Boeing/config-file-validator]

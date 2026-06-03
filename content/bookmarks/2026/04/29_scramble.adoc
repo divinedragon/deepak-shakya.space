@@ -14,9 +14,9 @@ videos: []
 
 
 
-:repository: https://github.com/zlwaterfield/scramble
+:github: https://github.com/zlwaterfield/scramble
 :hero-image: ../images/29_scramble-demo.png
-:chrome-extension: https://chromewebstore.google.com/detail/scramble/mkaljgnigabhmjfookbokejhfghmkffo?utm_source=deepak-shakya.space
+:chrome-extension: https://chromewebstore.google.com/detail/scramble/mkaljgnigabhmjfookbokejhfghmkffo
 
 
 
@@ -26,8 +26,17 @@ videos: []
 
 image::{hero-image}[Scramble Screenshot Demo]
 
+
+
 == Usage
+
 * Highlight text on any webpage
 * Right-click to open the context menu
 * Select "Scramble" and choose a text enhancement option
 * Wait for the AI to process and enhance your text
+
+
+
+== Links
+
+* Repository - {github}[@zlwaterfield/scramble]

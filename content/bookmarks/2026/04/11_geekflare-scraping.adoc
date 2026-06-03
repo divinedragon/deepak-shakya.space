@@ -2,9 +2,9 @@
 type: "page"
 date: "2026-04-11"
 slug: "geekflare-scraping"
-title: "Scrape, Screenshot, and Extract"
+title: "Geekflare - Scrape, Screenshot, and Extract"
 description: "Turn the chaotic web into clean Markdown and JSON structured data."
-tags: ["scraping", "api"]
+tags: [ "scraping", "api", "tools" ]
 series: []
 images:
   - "/bookmarks/2026/04/images/11_geekflare-scraping.jpg"
@@ -14,7 +14,7 @@ videos: []
 
 
 
-:website: https://geekflare.com/api/?utm_source=deepak-shakya.space
+:website: https://geekflare.com/api/
 :hero-image: ../images/11_geekflare-scraping.jpg
 
 
@@ -24,6 +24,8 @@ videos: []
 {website}[Geekflare] - Scrape, Screenshot, and Extract. Turn the chaotic web into clean Markdown and JSON structured data. Access a suite of 10+ robust APIs to feed your legacy and AI apps without the infrastructure overhead.
 
 image::{hero-image}[Geekflare Home Page screenshot]
+
+
 
 == Supported APIS
 

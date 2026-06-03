@@ -13,8 +13,8 @@ videos: []
 ---
 
 
-
-:website: https://github.com/Sinaptik-AI/pandas-ai
+:website: https://pandas-ai.com/
+:github: https://github.com/Sinaptik-AI/pandas-ai
 :hero-image: ../images/22_pandas-ai-demo.gif
 :demo: ../images/22_pandas-ai-histogram.png
 
@@ -39,3 +39,10 @@ df.chat(
 ----
 a| image::{demo}[Pandas AI demo for the code in the adjacent cell]
 |===
+
+
+
+== Links
+
+* Website - {website}[pandas-ai.com]
+* Repository - {github}[@Sinaptik-AI/pandas-ai]

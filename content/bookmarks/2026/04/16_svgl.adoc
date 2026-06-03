@@ -4,7 +4,7 @@ date: "2026-04-16"
 slug: "svgl"
 title: "SVG Logos"
 description: "A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS."
-tags: ["resources", "images"]
+tags: [ "resources", "images" ]
 series: []
 images:
   - "/bookmarks/2026/04/images/16_svg-logos.jpg"
@@ -14,9 +14,9 @@ videos: []
 
 
 
-:website: https://svgl.app/?utm_source=deepak-shakya.space
+:website: https://svgl.app/
 :hero-image: ../images/16_svg-logos.jpg
-:repository: https://github.com/pheralb/svgl
+:github: https://github.com/pheralb/svgl
 
 
 
@@ -28,5 +28,8 @@ image::{hero-image}[svgl app screenshot]
 
 The platform allows developers to easily search for, download, or copy the code of optimized vector logos for their web projects. Beyond the web interface, it offers a public API and a variety of community-built extensions for Figma, VS Code, and React to streamline the integration of brand icons into any workflow.
 
+
+
 == Links
-* Repository - {repository}[pheralb/svgl]
+
+* Repository - {github}[@pheralb/svgl]
